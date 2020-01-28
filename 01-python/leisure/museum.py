@@ -1,10 +1,10 @@
-def draw_museum(length):
+def draw_museum(height):
     print("   ==============")
     print("  =              =")
     print(" =                = ")
     print("=                  =")
     print("====================")
-    for i in range(length):
+    for i in range(height):
         print("|| || || || || || ||")
     print("====================")
     return
